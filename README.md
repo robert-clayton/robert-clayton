@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Robert
+_____
 
-<!--
-**robert-clayton/robert-clayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=robert-clayton&color=blue&style=flat-square) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/r-clayton) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mrrobertclayton)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Unreal Engine 5 project pipeline automation and robosity
+- 🌱 I’m currently learning cloud development at scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_____
+
+
+
+[![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robert-clayton&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
